@@ -1,1 +1,1 @@
-include ':app', ':com.simplebaseadapter', ':callback'
+include ':app', ':com.simplebaseadapter', ':callback', ':touchmode', ':listview', ':appCamera', ':PG_Edit_SDK', ':TuSDK', ':TuSDKDemo', ':photopicker', ':testbaidumap'

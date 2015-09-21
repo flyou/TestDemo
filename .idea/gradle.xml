@@ -9,9 +9,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PG_Edit_SDK" />
+            <option value="$PROJECT_DIR$/TuSDK" />
+            <option value="$PROJECT_DIR$/TuSDKDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appCamera" />
             <option value="$PROJECT_DIR$/callback" />
             <option value="$PROJECT_DIR$/com.simplebaseadapter" />
+            <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/photopicker" />
+            <option value="$PROJECT_DIR$/testbaidumap" />
+            <option value="$PROJECT_DIR$/touchmode" />
           </set>
         </option>
       </GradleProjectSettings>

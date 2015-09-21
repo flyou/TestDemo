@@ -3,9 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OrmListeDemo.iml" filepath="$PROJECT_DIR$/OrmListeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PG_Edit_SDK/PG_Edit_SDK.iml" filepath="$PROJECT_DIR$/PG_Edit_SDK/PG_Edit_SDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuSDK/TuSDK.iml" filepath="$PROJECT_DIR$/TuSDK/TuSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuSDKDemo/TuSDKDemo.iml" filepath="$PROJECT_DIR$/TuSDKDemo/TuSDKDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appCamera/appCamera.iml" filepath="$PROJECT_DIR$/appCamera/appCamera.iml" />
       <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.simplebaseadapter/com.simplebaseadapter.iml" filepath="$PROJECT_DIR$/com.simplebaseadapter/com.simplebaseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photopicker/photopicker.iml" filepath="$PROJECT_DIR$/photopicker/photopicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbaidumap/testbaidumap.iml" filepath="$PROJECT_DIR$/testbaidumap/testbaidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchmode/touchmode.iml" filepath="$PROJECT_DIR$/touchmode/touchmode.iml" />
     </modules>
   </component>
 </project>
